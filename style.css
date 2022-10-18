@@ -54,3 +54,6 @@ body {
     font-size: 25px;
     margin-bottom: 2%;
 }
+.skillsdiv li:nth-child(odd){
+    font-style: italic;
+}
