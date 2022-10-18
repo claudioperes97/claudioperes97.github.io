@@ -1,0 +1,56 @@
+#sobremim {
+    font-family: 'Serif, ''Courier New', Courier, monospace;
+    font-style: italic;
+}
+.description {
+    font-family: sans-serif;
+    background-color: aliceblue;
+}
+body {
+    background-color:#bde0fe;
+}
+.bold {
+    font-weight: bold;
+    font-style: oblique;
+    font-size: 18px;
+    line-height: 5px;
+    font-family: 'cursive', 'fantasy';
+}
+.sizeskill {
+    font-size: 20px;
+}
+#foto {
+    border-radius: 200px;
+    float: left;
+    margin-left: 50px;
+    top: 50px;
+    position: absolute;
+}
+.descricao {
+    position: absolute;
+    line-height: 40px;
+    margin-right: 10px;
+    margin-left: 30%;
+    margin-bottom: 90%;
+    z-index: 1;
+}
+.foto1 {
+    background-color: black; width: 200px; height: 450px;
+    width: 500px;
+    top: 150px;
+    float: left;
+    position: absolute;
+    
+
+}
+.skillsdiv {
+    margin-top: 30%;
+}
+.descricao .bold {
+    line-height: 20px;
+}
+.nome {
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 2%;
+}
